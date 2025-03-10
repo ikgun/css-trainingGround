@@ -1,0 +1,10 @@
+.grid-container {
+  display: grid;
+  justify-content: space-evenly;
+  
+
+}
+
+.items{
+    border: 1px solid black;
+}
